@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://davishvacco.com/sitemap.xml
